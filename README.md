@@ -13,6 +13,7 @@ Integrated Microsoft Teams notifications via Power Automate to ensure immediate 
 Outcome: Improved communication and responsiveness, minimizing financial impact from low-quality flowers.
 
 
+
 B. Dump/Quarantine App
 
 Objective: Manage plants with issues (fungus, overgrowth) and keep inventory accurate in real-time.
@@ -24,9 +25,13 @@ Automated tasks in Microsoft Planner using Power Automate for quarantined plants
 
 Outcome: Enhanced inventory accuracy and operational transparency.
 
+
 C. Inventory Management App
+
 Objective: Replace manual Excel-based inventory tracking with a faster, automated system.
+
 Solution:
 Developed a QR code-based app for production staff to update inventory directly in Business Central.
 Integrated Power Automate for real-time updates and notifications to managers via Teams.
+
 Outcome: Streamlined inventory processes, saving time and reducing manual errors.
