@@ -9,14 +9,19 @@ Solution:
 
 Developed a Canvas App for production staff to report flower conditions (temperature, size, pests) with attached photos.
 Integrated Microsoft Teams notifications via Power Automate to ensure immediate acknowledgment by managers.
+
 Outcome: Improved communication and responsiveness, minimizing financial impact from low-quality flowers.
 
 
 B. Dump/Quarantine App
+
 Objective: Manage plants with issues (fungus, overgrowth) and keep inventory accurate in real-time.
+
 Solution:
+
 Integrated PopDock’s API with a custom app to manage inventory dynamically.
 Automated tasks in Microsoft Planner using Power Automate for quarantined plants, facilitating decision-making.
+
 Outcome: Enhanced inventory accuracy and operational transparency.
 
 C. Inventory Management App
